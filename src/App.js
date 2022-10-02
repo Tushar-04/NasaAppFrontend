@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/NasaAppFrontend" element={<Home />} />
         <Route path="/pricing" element={<Pricing />} />
         <Route path="/begineer" element={<Begineer />} />
         <Route path="/intermediate" element={<Intermediate />} />
