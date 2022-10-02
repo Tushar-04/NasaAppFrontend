@@ -1,12 +1,12 @@
 .pricing {
   width: 100%;
   padding: 6rem 1rem;
-  background-color: #000;
+  background-color: #000d15;
 }
 
 .card-container {
   max-width: 1140px;
-  height: 1149px;
+  height: 100%;
   margin: auto;
   display: grid;
   grid-gap: 40px;
@@ -15,12 +15,13 @@
 
 .card-container .card {
   border: 1px solid #eee;
-  color: #eee;
+  color: #fff;
 }
 
 .card {
   text-align: center;
   padding: 1rem;
+  background: url("../assets/2.jpeg") no-repeat center center/cover;
 }
 
 .card:hover {

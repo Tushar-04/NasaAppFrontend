@@ -11,17 +11,19 @@ const Video = () => {
         <source src={spaceVideo} type="video/mp4" />
       </video>
       <div className="content">
-        <h1>Save Earth</h1>
-        <p>Save Earth From The Disaster</p>
+        <h1>Explore Space</h1>
+        <p>Different paths one destination "Space"</p>
         <div>
-          <Link to="/training" className="btn">
+          <Link to="/pricing" className="btn">
             Training
           </Link>
-          <Link to="/contact" className="btn btn-light">
+          {/* <Link to="/contact" className="btn btn-light">
             Launch
-          </Link>
+          </Link> */}
+
         </div>
       </div>
+      <iframe className="chat" width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/a8bcda60-e993-414e-9010-04ec01e8260f"></iframe>
     </div>
   );
 };

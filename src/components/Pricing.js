@@ -34,10 +34,8 @@ class Pricing extends React.Component {
         <div className="card-container">
           {items.map((item) => (
             <ol key={item.id}>
-              <div className="card">
-                <p>{item.date}</p>
-                <span className="bar"></span>
-                <p className="btc"> Title:{item.Title}</p>
+              <div className="card" >
+                <p className="btc"> {item.Title}</p>
                 <p>{item.Theme}</p>
                 {/* <p>- Views -</p>
                 <p>- Featured -</p>

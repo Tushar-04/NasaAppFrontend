@@ -28,13 +28,10 @@ const Navbar = () => {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/">Featured Resources</Link>
+          <Link to="/pricing">All Resources</Link>
         </li>
         <li>
-          <Link to="/pricing">Latest Resources</Link>
-        </li>
-        <li>
-          <Link to="/begineer">Begineer Resources</Link>
+          <Link to="/begineer">Beginner Resources</Link>
         </li>
         <li>
           <Link to="/intermediate">Intermediate Resources</Link>

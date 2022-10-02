@@ -35,8 +35,6 @@ class Pricing extends React.Component {
           {items.map((item) => (
             <ol key={item.id}>
               <div className="card">
-                <p>{item.date}</p>
-                <span className="bar"></span>
                 <p className="btc"> Title:{item.Title}</p>
                 <p>{item.Theme}</p>
                 {/* <p>- Views -</p>

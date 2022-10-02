@@ -8,7 +8,7 @@ const begineer = () => {
   return (
     <div>
       <Navbar />
-      <HeroImage heading="BEGINEER." text="Begineeer Resources" />
+      <HeroImage heading="BEGINNER." text="Begineeer Resources" />
       <PricingCards />
       <Footer />
     </div>
