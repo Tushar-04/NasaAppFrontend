@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NasaAppFrontend/static/css/main.afb2bacd.chunk.css",
+    "main.js": "/NasaAppFrontend/static/js/main.da99e5d7.chunk.js",
+    "main.js.map": "/NasaAppFrontend/static/js/main.da99e5d7.chunk.js.map",
+    "runtime-main.js": "/NasaAppFrontend/static/js/runtime-main.3df8328e.js",
+    "runtime-main.js.map": "/NasaAppFrontend/static/js/runtime-main.3df8328e.js.map",
+    "static/js/2.1896b85c.chunk.js": "/NasaAppFrontend/static/js/2.1896b85c.chunk.js",
+    "static/js/2.1896b85c.chunk.js.map": "/NasaAppFrontend/static/js/2.1896b85c.chunk.js.map",
+    "index.html": "/NasaAppFrontend/index.html",
+    "static/css/main.afb2bacd.chunk.css.map": "/NasaAppFrontend/static/css/main.afb2bacd.chunk.css.map",
+    "static/js/2.1896b85c.chunk.js.LICENSE.txt": "/NasaAppFrontend/static/js/2.1896b85c.chunk.js.LICENSE.txt",
+    "static/media/PricingStyles.css": "/NasaAppFrontend/static/media/2.0eaa2079.jpeg",
+    "static/media/HeroImageStyles.css": "/NasaAppFrontend/static/media/heroImg.717ecc48.jpg",
+    "static/media/moon.91396c73.jpg": "/NasaAppFrontend/static/media/moon.91396c73.jpg",
+    "static/media/pod.30776f82.jpg": "/NasaAppFrontend/static/media/pod.30776f82.jpg",
+    "static/media/space.41584ed5.mp4": "/NasaAppFrontend/static/media/space.41584ed5.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df8328e.js",
+    "static/js/2.1896b85c.chunk.js",
+    "static/css/main.afb2bacd.chunk.css",
+    "static/js/main.da99e5d7.chunk.js"
+  ]
+}
