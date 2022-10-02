@@ -2,7 +2,7 @@
   "name": "glx-trvl",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tushar-04.github.io/",
+  "homepage": "https://Tushar-04.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.15.1",
