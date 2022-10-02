@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NasaAppFrontend/static/css/main.afb2bacd.chunk.css",
-    "main.js": "/NasaAppFrontend/static/js/main.ae1c39d9.chunk.js",
-    "main.js.map": "/NasaAppFrontend/static/js/main.ae1c39d9.chunk.js.map",
+    "main.js": "/NasaAppFrontend/static/js/main.9f4511de.chunk.js",
+    "main.js.map": "/NasaAppFrontend/static/js/main.9f4511de.chunk.js.map",
     "runtime-main.js": "/NasaAppFrontend/static/js/runtime-main.3df8328e.js",
     "runtime-main.js.map": "/NasaAppFrontend/static/js/runtime-main.3df8328e.js.map",
     "static/js/2.1896b85c.chunk.js": "/NasaAppFrontend/static/js/2.1896b85c.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3df8328e.js",
     "static/js/2.1896b85c.chunk.js",
     "static/css/main.afb2bacd.chunk.css",
-    "static/js/main.ae1c39d9.chunk.js"
+    "static/js/main.9f4511de.chunk.js"
   ]
 }
