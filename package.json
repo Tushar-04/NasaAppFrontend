@@ -2,7 +2,7 @@
   "name": "glx-trvl",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tushar-04.github.io/NasaAppFrontend/",
+  "homepage": "https://Tushar-04.github.io/NasaAppFrontend",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.15.1",
